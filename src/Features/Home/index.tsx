@@ -1,10 +1,15 @@
-import CheckboxDemo from "../../Components/Checkbox/Checkbox";
+//import CheckboxDemo from "../../Components/Checkbox/Checkbox";
 function Home(){
  return (
-    <div>
-        <CheckboxDemo label="Sample checkbox"/>
+    // <div>
+    //     <CheckboxDemo label="Sample checkbox"/>
 
-    </div>
+    // </div>
+
+        <h5 className="text-3xl font-bold underline">
+          Hello world!
+        </h5>
+      
  )
 }
 export default Home;
