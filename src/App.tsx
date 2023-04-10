@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
  import CheckboxDemo from './Components/Checkbox/Checkbox';
 import Home from './Features/Home';
+import Form from "./Features/Form"
 
 function App() {
   return (
@@ -12,7 +13,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-      <Home/>
+      {/* <Home/> */}
+      <Form/>
+      
       </header>
     </div>
   );
