@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
  import CheckboxDemo from './Components/Checkbox/Checkbox';
 import Home from './Features/Home';
-import Form from "./Features/Form"
+import Form from "./Features/Form/Form"
 
 function App() {
   return (
